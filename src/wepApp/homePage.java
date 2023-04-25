@@ -4,4 +4,8 @@ public class homePage {
     //setting up home page
 
     //nav menu
+
+    //kamal
+
+    //hanan
 }
