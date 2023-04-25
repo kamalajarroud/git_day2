@@ -7,6 +7,10 @@ public class contactPage {
 
     //instagram
 
+    //youtube
+
+    //email
+
 
 
 }
